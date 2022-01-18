@@ -380,7 +380,7 @@ a {
 .plan:hover {
   transform: scale(1.05);
 }
-.plan--pupular:hover {
+.plan--popular:hover {
   transform: scale(1.15);
 }
 
@@ -750,4 +750,10 @@ a {
 .block-plans .card {
   max-width: 500px;
   margin: 0 auto;
+}
+
+/* Features */
+
+.feature__heading {
+  margin: 1rem 0;
 }
