@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "Web Denemeler",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Web Denemeler"
+	}
+}
